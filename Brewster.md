@@ -1,7 +1,6 @@
 # Carlton Brewster, CISSP, Elite Hacker(HTB)
 
 Washington, DC 20037
-(202) 270-8233
 carltonbrewster@icloud.com
 ![](/home/ezri/jobs/pandoc_resume/carlton409c.png )
 
